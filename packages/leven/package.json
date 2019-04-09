@@ -1,0 +1,30 @@
+{
+  "name": "leven",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "koinotice <koinotice@gmail.com>",
+  "homepage": "https://github.com/koinotice/lomoge#readme",
+  "license": "ISC",
+  "main": "lib/leven.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koinotice/lomoge.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/koinotice/lomoge/issues"
+  },
+  "dependencies": {
+    "flex-contract": "^1.9.2",
+    "flex-ether": "^1.3.2"
+  }
+}
